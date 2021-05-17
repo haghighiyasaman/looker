@@ -1,0 +1,1 @@
+This repository is linked to Looker to keep track of all the changes made to Looker models and views.
